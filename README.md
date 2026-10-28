@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mike Witkovsky</h1>
-<h3 align="center">A Senior IoT Engineer <a href="https://github.com/Storm-Reply-UK">@Storm-Reply-UK</a></h3>
+<h3 align="center">an IoT Platform Engineer <a href="https://heinekenkrakow.pl">@HEINEKEN</a></h3>
 
 <br>
 
